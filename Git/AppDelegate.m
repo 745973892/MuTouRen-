@@ -22,6 +22,7 @@
     [self.window makeKeyAndVisible];
     
     NSLog(@"fsafs");
+    NSLog(@"lalalallala");
     
     
     return YES;
